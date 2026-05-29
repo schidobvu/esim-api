@@ -1,0 +1,4 @@
+src/lib/hash.lo: \
+  /Users/sam/Documents/Projects/Work/esim-api/xdebug-3.5.1/src/lib/hash.c \
+  /Users/sam/Documents/Projects/Work/esim-api/xdebug-3.5.1/src/lib/hash.h \
+  /Users/sam/Documents/Projects/Work/esim-api/xdebug-3.5.1/src/lib/llist.h

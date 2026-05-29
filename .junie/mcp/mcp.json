@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/usr/local/Cellar/php@8.2/8.2.30/bin/php",
+            "args": [
+                "/Users/sam/Documents/Projects/Work/esim-api/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}

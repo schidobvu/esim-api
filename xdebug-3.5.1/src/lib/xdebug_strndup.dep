@@ -1,0 +1,4 @@
+src/lib/xdebug_strndup.lo: \
+  /Users/sam/Documents/Projects/Work/esim-api/xdebug-3.5.1/src/lib/xdebug_strndup.c \
+  /Users/sam/Documents/Projects/Work/esim-api/xdebug-3.5.1/src/lib/mm.h \
+  /Users/sam/Documents/Projects/Work/esim-api/xdebug-3.5.1/src/lib/xdebug_strndup.h
